@@ -9,3 +9,51 @@ Parses current playing music to terminal on Linux, BSD and macOS. To use with dw
 
 ![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song2.png)
 ![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song.png)
+
+
+## Supported players
+As a very small fork of neofetch(yes), it supports most common audio players. Full list below.
+spotify
+amarok
+audacious
+banshee
+bluemindo
+clementine
+cmus
+deadbeef
+deepin-music
+dragon
+elisa
+exaile
+gnome-music
+gmusicbrowser
+gogglesmm
+guayadeque
+io.elementary.music
+iTunes
+juk
+lollypop
+MellowPlayer
+mocp
+mopidy
+mpd
+muine
+netease-cloud-music
+olivia
+plasma-browser-integration
+playerctl
+pogo
+pragha
+qmmp
+quodlibet
+rhythmbox
+sayonara
+smplayer
+strawberry
+tauonmb
+tomahawk
+vlc
+xmms2d
+xnoise
+yarock
+
