@@ -14,8 +14,8 @@ Parses current playing music to terminal on Linux, BSD and macOS. To use with dw
 ## Supported players
 As a very small fork of neofetch(yes), it supports most common audio players. Full list below.
 
-*Spotify
-*amarok
+* Spotify
+* amarok
 
 audacious
 
