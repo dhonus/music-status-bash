@@ -6,5 +6,5 @@ Parses current playing music to terminal on Linux, BSD and macOS. To use with dw
 > chmod +x current_song
 
 > ./current_song
-
+![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song2.png)
 ![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song.png)
