@@ -16,88 +16,44 @@ As a very small fork of neofetch(yes), it supports most common audio players. Fu
 
 * Spotify
 * amarok
-
-audacious
-
-banshee
-
-bluemindo
-
-clementine
-
-cmus
-
-deadbeef
-
-deepin-music
-
-dragon
-
-elisa
-
-exaile
-
-gnome-music
-
-gmusicbrowser
-
-gogglesmm
-
-guayadeque
-
-io.elementary.music
-
-iTunes
-
-juk
-
-lollypop
-
-MellowPlayer
-
-mocp
-
-mopidy
-
-mpd
-
-muine
-
-netease-cloud-music
-
-olivia
-
-plasma-browser-integration
-
-playerctl
-
-pogo
-
-pragha
-
-qmmp
-
-quodlibet
-
-rhythmbox
-
-sayonara
-
-smplayer
-
-strawberry
-
-tauonmb
-
-tomahawk
-
-vlc
-
-xmms2d
-
-xnoise
-
-yarock
-
-
-
+* audacious
+* banshee
+* bluemindo
+* clementine
+* cmus
+* deadbeef
+* deepin-music
+* dragon
+* elisa
+* exaile
+* gnome-music
+* gmusicbrowser
+* gogglesmm
+* guayadeque
+* io.elementary.music
+* iTunes
+* juk
+* lollypop
+* MellowPlayer
+* mocp
+* mopidy
+* mpd
+* muine
+* netease-cloud-music
+* olivia
+* plasma-browser-integration
+* playerctl
+* pogo
+* pragha
+* qmmp
+* quodlibet
+* rhythmbox
+* sayonara
+* smplayer
+* strawberry
+* tauonmb
+* tomahawk
+* vlc
+* xmms2d
+* xnoise
+* yarock
