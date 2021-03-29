@@ -8,7 +8,7 @@ Parses current playing music to terminal on Linux, BSD and macOS. To use with dw
 > ./current_song
 
 ![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song2.png)
-![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/now.jpg)
+![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/current_song.png)
 
 
 ## Supported players
