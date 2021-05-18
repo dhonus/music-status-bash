@@ -53,6 +53,8 @@ get_song() {
         "olivia"
         "plasma-browser-integration"
         "playerctl"
+        "brave"
+        "chromium"
         "pogo"
         "pragha"
         "qmmp"
@@ -187,6 +189,12 @@ get_song() {
         "playerctl"*)
             song="$(playerctl metadata --format '{{ artist }} \n{{ album }} \n{{ title }}')"
          ;;
+        
+        "brave"*)
+            song="$(playerctl metadata --format '{{ artist }} \n{{ album }} \n{{ title }}')"
+         ;;
+
+
 
         *) mpc &>/dev/null && song="$(mpc -f '%artist% \n%album% \n%title%' current)" || return ;;
     esac
@@ -241,8 +249,6 @@ info() {
     elif [[ "${output// }" ]]; then
         prin "$output"
 
-    else
-        err "Info: Couldn't detect ${1}."
     fi
 
     unset -v subtitle

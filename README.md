@@ -1,7 +1,9 @@
 # music_status_bash
 Parses current playing music to terminal on Linux, BSD and macOS. To use with dwm, or any other window manager to display current song simply add to the config file. Might need to increase the max length of a block, some song titles can be long.
 ## Installation
- does not require any dependencies, simply download or use following curl command
+Does not really require any dependencies, simply download or use following curl command
+### Optional dependencies
+If you intend to use this script with web-based players such as Tidal, or anything else in the browser -- install **`playerctl`**
 
  `curl https://raw.githubusercontent.com/HonusDaniel/music-status-bash/main/current_song >> current_song`
 
@@ -18,6 +20,7 @@ Parses current playing music to terminal on Linux, BSD and macOS. To use with dw
 ## Supported players
 As a very small fork of neofetch(yes), it supports most common audio players. Full list below.
 
+* web based players in chromium based browsers (only tested in Brave)
 * Spotify
 * amarok
 * audacious
