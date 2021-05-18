@@ -188,14 +188,16 @@ get_song() {
 
         "playerctl"*)
             song="$(playerctl metadata --format '{{ artist }} \n{{ album }} \n{{ title }}')"
-         ;;
+        ;;
         
         "brave"*)
             song="$(playerctl metadata --format '{{ artist }} \n{{ album }} \n{{ title }}')"
-         ;;
+        ;;
 
+        "chromium"*)
+            song="$(playerctl metadata --format '{{ artist }} \n{{ album }} \n{{ title }}')"
 
-
+        ;;
         *) mpc &>/dev/null && song="$(mpc -f '%artist% \n%album% \n%title%' current)" || return ;;
     esac
 
