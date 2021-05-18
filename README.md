@@ -5,7 +5,10 @@ Does not really require any dependencies, simply download or use following curl 
 ### Optional dependencies
 If you intend to use this script with web-based players such as Tidal, or anything else in the browser -- install **`playerctl`**
 
- `curl https://raw.githubusercontent.com/HonusDaniel/music-status-bash/main/current_song >> current_song`
+### Install steps
+To clone this script into a directory and mark it as executable run the following commands 
+
+`curl https://raw.githubusercontent.com/HonusDaniel/music-status-bash/main/current_song >> current_song`
 
  `chmod +x current_song`
 
