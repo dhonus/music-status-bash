@@ -16,8 +16,7 @@ To clone this script into a directory and mark it as executable run the followin
 
 ---
 
-![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/song2.png)
-![alt text](https://raw.githubusercontent.com/HonusDaniel/personalsite/gh-pages/images/current_song.png)
+![alt text](screenshot.jpg)
 
 
 ## Supported players
