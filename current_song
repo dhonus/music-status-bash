@@ -221,6 +221,10 @@ get_song() {
     # Set default values if no tags were found.
     : "${artist:=Unknown Artist}" "${album:=Unknown Album}" "${title:=Unknown Song}"
 
+	# Don't print if unknown
+	if [[ "$artist" == "Unknown Artist" && "$album" == "Unknown Album" && "$title" == "Unknown Song" ]]; then
+		return
+	fi
     # Display Artist, Album and Title on separate lines.
     if [[ "$song_shorthand" == "on" ]]; then
         prin "Artist" "$artist"
